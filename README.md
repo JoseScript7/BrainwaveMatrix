@@ -1,6 +1,6 @@
 # Brainwave Matrix Solution
-# Web Development Internship Task-1
-# To create landing page of any website you like
+_Web Development Internship Task-1_
+_To create landing page of any website you like_
 ## Date:30.11.2024
 
 ## AIM:
@@ -34,6 +34,10 @@ Add images (like banners, categories) in their designated sections for a profess
 
 ## Step 9:
 Test and launch the page locally using the Django server.
+
+## 🛠️ TECH STACK:
+HTML: To structure the web page.
+CSS: To style the page, ensuring responsiveness and aesthetics.
 
 ## PROGRAM:
 myapp.html
@@ -243,5 +247,5 @@ Reference image used:
 Output:
 ![alt text](image-2.png)
 
-## RESULT:
+## RESULT🎯:
 The landing page for Amazon was successfully designed with a sleek, responsive interface using HTML and CSS, fulfilling the task requirements
