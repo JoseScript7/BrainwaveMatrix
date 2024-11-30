@@ -1,5 +1,6 @@
 # Brainwave Matrix Solution
-_Web Development Internship Task-1_
+**_Web Development Internship Task-1_**:
+
 _To create landing page of any website you like_
 ## Date:30.11.2024
 
